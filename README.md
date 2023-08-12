@@ -1,0 +1,2 @@
+# Ryzentosh
+ EFI Untuk Ryzentosh
