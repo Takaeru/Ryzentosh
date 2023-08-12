@@ -18,6 +18,7 @@ Untuk dapat membaca **Disk NTFS** bisa install **Paragon** namun ini berbayar, s
 - File [Build][Dortania]
 - Dokumentasi [Dortania][Docs]
 - Writeable NTFS [Paragon][Paragon]
+- Bahan Tambahan ada di folder **penginstalan**
 
 > Harap backup data dan gunakan Disk Kosong atau buat 1 partisi khusus untuk MacOS
 
