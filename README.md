@@ -4,7 +4,7 @@ EFI ini sudah di coba di MacOs Catalina, BigSur, Monterey dan Ventura, untuk cat
 
 Namun jika spek PC yang anda gunakan sama, bisa langsung anda gunakan EFI ini. 
 
-Untuk dapat membaca **Disk NTFS** bisa install **Paragon** namun ini berbayar, saya masih mencari cara untuk bisa **Read-Write NTFS**, jika anda bisa mungkin bisa anda beritahu saya.
+Untuk dapat membaca **Disk NTFS** bisa install **Paragon** namun ini berbayar, saya masih mencari cara untuk bisa **Read-Write NTFS**, jika anda bisa mungkin bisa beritahu saya.
 
 ## Spesifikasi PC
 - Ryzen 7 5700x
